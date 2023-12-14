@@ -1,5 +1,4 @@
 # TwitterAPi
-# API3
 
 This is a simple Java program that uses the Twitter4J library to search for tweets containing the keyword "کنکور" (which translates to "entrance exam" in English) and writes the results to a file called "result.txt". The program also retrieves additional information about the user who posted each tweet, including their profile image URL, description, location, and follower count.
 
